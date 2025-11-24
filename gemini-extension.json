@@ -1,8 +1,8 @@
 {
   "id": "gemini-history-learning",
-  "name": "Gemini History Learning",
+  "name": "gemini-history-learning",
   "description": "Extension to analyze and export Gemini session history.",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "contextFiles": [
     "GEMINI.md"
   ]
